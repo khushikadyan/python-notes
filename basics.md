@@ -1871,7 +1871,7 @@ print(len(cars))
 | `reverse()` | ✅ Yes | Reverses the current order of elements |
 | `len()` | ❌ No | Returns the total number of elements |
 
-````md
+
 ## Summary: Looping Through a List (`for` Loop) in Python
 
 ### 1. What is a `for` Loop?
@@ -2130,4 +2130,3 @@ for variable in iterable:
   * `IndentationError` → Missing or incorrect indentation.
   * `SyntaxError` → Missing colon (`:`) after the `for` statement.
   * **Logical errors** occur when indentation is syntactically valid but produces the wrong behavior.
-````
